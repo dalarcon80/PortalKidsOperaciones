@@ -16,4 +16,4 @@ code --version > docs/m1_vscode_ok.txt
 python src/quest.py run M1
 python src/quest.py next
 ```
-6) El motor te mostrará un enlace a la siguiente misión (con un hash).
+6) El motor te mostrará un enlace a la siguiente misión (con un hash).-
