@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('PortalKidsOperaciones/students/Jalarconm/data/bronze/customers.csv', sep = ',')
+df = pd.read_csv('dalarcon80/PortalKidsOperaciones/students/Jalarconm/data/bronze/customers.csv', sep = ',')
 
 print(df)
 print("shape",df.shape)
